@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@supabase/realtime-js": "file:..",
+    "@supabase/realtime-js": "latest",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
