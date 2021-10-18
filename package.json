@@ -2,7 +2,7 @@
   "name": "with-tailwindcss",
   "version": "1.0.0",
   "scripts": {
-    "g": "git add . && git commit -m \"first commit\" && git push -u origin main -f",
+  
     "dev": "next",
     "build": "next build",
     "export": "next export",
